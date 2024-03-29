@@ -795,9 +795,9 @@ height: 8px;
       }
   
       .com {
-        width: 100%;
+        width: 50%;
         display: flex;
-        justify-content: space-around;
+        /* justify-content: space-around; */
         /* align-items: center; */
         gap: 10px;
       }
