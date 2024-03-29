@@ -795,10 +795,8 @@ height: 8px;
       }
   
       .com {
-        width: 50%;
+        width: 49%;
         display: flex;
-        /* justify-content: space-around; */
-        /* align-items: center; */
         gap: 10px;
       }
   
